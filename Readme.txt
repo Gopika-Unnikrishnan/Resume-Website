@@ -1,6 +1,2 @@
-Thanks for downloading this template!
-
-Template Name: Laura
-Template URL: https://bootstrapmade.com/laura-free-creative-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+## This is my resume website repository
+you can view this page on https://www.gopikav.com/
